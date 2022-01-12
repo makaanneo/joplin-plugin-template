@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/makaanneo/joplin-plugin-template/compare/v1.2.0...v1.2.1) (2022-01-12)
+
+
+### Bug Fixes
+
+* test ([eacf054](https://github.com/makaanneo/joplin-plugin-template/commit/eacf054c309845e2936c1f32a7b3527ddcecfce2))
+
 # [1.1.0](https://github.com/makaanneo/joplin-plugin-template/compare/v1.0.0...v1.1.0) (2022-01-12)
 
 
