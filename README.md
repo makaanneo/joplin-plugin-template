@@ -1,3 +1,4 @@
+# Template plugin for my plugins
 # Joplin Plugin
 
 This is a template to create a new Joplin plugin.
