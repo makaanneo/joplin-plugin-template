@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/makaanneo/joplin-plugin-template/compare/v1.2.1...v1.2.2) (2022-01-12)
+
+
+### Performance Improvements
+
+* delete other action ([1f48ff7](https://github.com/makaanneo/joplin-plugin-template/commit/1f48ff71ecd3ca90d87abc20df738ef9766f687b))
+
 ## [1.2.1](https://github.com/makaanneo/joplin-plugin-template/compare/v1.2.0...v1.2.1) (2022-01-12)
 
 
