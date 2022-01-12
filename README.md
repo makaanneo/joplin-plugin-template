@@ -1,4 +1,8 @@
 # Template plugin for my plugins
+
+* automatic NPM release
+* Update all relevant Version files
+* commit all relevant Version files
 # Joplin Plugin
 
 This is a template to create a new Joplin plugin.
