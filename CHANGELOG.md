@@ -1,3 +1,10 @@
+# 1.0.0 (2022-01-12)
+
+
+### Features
+
+* initial commit ([f4d4579](https://github.com/makaanneo/joplin-plugin-template/commit/f4d45798a44fdd2b3ce4e2f53819cd1e0b589291))
+
 ## [1.2.2](https://github.com/makaanneo/joplin-plugin-template/compare/v1.2.1...v1.2.2) (2022-01-12)
 
 
