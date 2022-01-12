@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/makaanneo/joplin-plugin-template/compare/v1.0.0...v1.1.0) (2022-01-12)
+
+
+### Features
+
+* Updaet Readme ([48db054](https://github.com/makaanneo/joplin-plugin-template/commit/48db05481171bb75002d9f7cfb59e5c08f98cbe2))
+
 # 1.0.0 (2022-01-12)
 
 
