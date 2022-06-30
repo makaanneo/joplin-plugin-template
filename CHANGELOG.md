@@ -1,3 +1,12 @@
+# 1.0.0 (2022-06-30)
+
+
+### Features
+
+* bump version ([e98844d](https://github.com/makaanneo/joplin-plugin-template/commit/e98844d9afd948d88e511757324ad76cf6d1c57d))
+* initial commit ([f4d4579](https://github.com/makaanneo/joplin-plugin-template/commit/f4d45798a44fdd2b3ce4e2f53819cd1e0b589291))
+* **security:** bump versions ([f8a2a48](https://github.com/makaanneo/joplin-plugin-template/commit/f8a2a48fa18600313007c5acd4f848ba70f630fa))
+
 # 1.0.0 (2022-04-28)
 
 
